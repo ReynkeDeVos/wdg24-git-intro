@@ -1,0 +1,23 @@
+/* section mal */
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.social-media-icons img {
+  width: 30px; /* adjust the size of the icons as needed */
+  height: 30px;
+  margin: 10px;
+}
+
+.copyright {
+  width: 50%;
+  text-align: right;
+}
