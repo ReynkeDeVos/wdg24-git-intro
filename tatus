@@ -1,0 +1,41 @@
+[33mcommit 42e911e9802d07737a72a0b74b9385e4b6eb94bd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/footer-ps[m[33m, [m[1;31morigin/feature/footer-ps[m[33m)[m
+Author: yaaintmal <me@problack.de>
+Date:   Fri Aug 22 16:29:34 2025 +0200
+
+    added styles.css, updated styles
+
+[33mcommit ff4f83956ab70fc16795acc8f6a919bfa024526a[m
+Author: yaaintmal <me@problack.de>
+Date:   Fri Aug 22 16:12:38 2025 +0200
+
+    changed footer: added logos
+
+[33mcommit cb8cf06d5609ed6af1b1beaeb026009b981c8acb[m
+Author: yaaintmal <me@problack.de>
+Date:   Fri Aug 22 14:48:30 2025 +0200
+
+    changed footer: added logos
+
+[33mcommit 5c7f97d299cf1d825130a3a589d293adb83f42a2[m
+Author: yaaintmal <me@problack.de>
+Date:   Fri Aug 22 14:26:27 2025 +0200
+
+    added footer: intial upload
+
+[33mcommit 58b46ad3e521c68790569821d7c978970cde66b3[m[33m ([m[1;31morigin/feature-section3[m[33m)[m
+Author: Renke Brixel <renke.brixel@wbscodingschool.com>
+Date:   Thu Aug 21 10:36:07 2025 +0200
+
+    add header
+
+[33mcommit c3965042713f1b932794eef292a36b87ed4aa425[m
+Author: Renke Brixel <renke.brixel@wbscodingschool.com>
+Date:   Thu Aug 21 10:24:10 2025 +0200
+
+    add heading
+
+[33mcommit c288d4da65a212fe2729c9107f44617707b8ca5c[m
+Author: Renke Brixel <renke.brixel@wbscodingschool.com>
+Date:   Thu Aug 21 10:18:21 2025 +0200
+
+    inital
